@@ -5,4 +5,14 @@
 
 .navbar{
   background-color: skyblue;
+  height: 35px;
+}
+
+.nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
+  gap: 30px;
+  list-style-type: none;
 }
